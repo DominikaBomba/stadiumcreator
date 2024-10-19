@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Dominika Bomba\\Desktop\\Programowanie Objektowe\\stadium_creator\\Creator.UnitTests\\Creator.UnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Dominika Bomba\\Desktop\\Programowanie Objektowe\\stadium_creator\\Creator.UnitTests\\Creator.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dominika Bomba\\Desktop\\Programowanie Objektowe\\stadium_creator\\Creator.UnitTests\\Creator.UnitTests.csproj",
+        "projectName": "Creator.UnitTests",
+        "projectPath": "C:\\Users\\Dominika Bomba\\Desktop\\Programowanie Objektowe\\stadium_creator\\Creator.UnitTests\\Creator.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\Dominika Bomba\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dominika Bomba\\Desktop\\Programowanie Objektowe\\stadium_creator\\Creator.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dominika Bomba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Dominika Bomba\\Desktop\\Programowanie Objektowe\\stadium_creator\\stadium_creator\\stadium_creator.csproj": {
+                "projectPath": "C:\\Users\\Dominika Bomba\\Desktop\\Programowanie Objektowe\\stadium_creator\\stadium_creator\\stadium_creator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dominika Bomba\\Desktop\\Programowanie Objektowe\\stadium_creator\\stadium_creator\\stadium_creator.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dominika Bomba\\Desktop\\Programowanie Objektowe\\stadium_creator\\stadium_creator\\stadium_creator.csproj",
+        "projectName": "stadium_creator",
+        "projectPath": "C:\\Users\\Dominika Bomba\\Desktop\\Programowanie Objektowe\\stadium_creator\\stadium_creator\\stadium_creator.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

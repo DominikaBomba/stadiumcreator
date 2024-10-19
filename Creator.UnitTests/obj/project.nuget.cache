@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SvkseIyIEbjZ5XatAru+4+0kHgVr/SWkK32LaCJK2CmWJXxFPMCogGCAhX/yUXHh9O1Rqnq5PVP4bM4ANLI6mQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dominika Bomba\\Desktop\\Programowanie Objektowe\\stadium_creator\\Creator.UnitTests\\Creator.UnitTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dominika Bomba\\.nuget\\packages\\nunit\\4.2.2\\nunit.4.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
