@@ -1,5 +1,6 @@
 Author: Dominika Bomaba
  Stadium Creator
+ 📄 [View Documentation (PDF)](documentation.pdf)
 
 **Stadium Creator** is a C# console application built with .NET that allows users to manage stadiums, events, performers, and ticket sales. It features a user-friendly, menu-driven interface and demonstrates object-oriented programming concepts.
 
